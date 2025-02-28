@@ -1,75 +1,82 @@
-# Shivani Aggarwal - Personal Website
+<!-- index.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Shivani Aggarwal | Home</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Shivani Aggarwal</h1>
+        <p>Educator | AI Researcher | EdTech Innovator</p>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="about.html">About</a></li>
+                <li><a href="experience.html">Experience</a></li>
+                <li><a href="projects.html">Projects</a></li>
+                <li><a href="education.html">Education</a></li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+    
+    <section>
+        <h2>Welcome to My Personal Website</h2>
+        <p>Passionate about integrating AI & ML with education to create holistic learning models.</p>
+    </section>
+    
+    <footer>
+        <p>&copy; 2024 Shivani Aggarwal | <a href="mailto:aggarwal.er@gmail.com">Email Me</a></p>
+    </footer>
+</body>
+</html>
 
-## 🏠 Home  
-**"Passionate Educator | Bridging AI & Machine Learning with Human Values | EdTech Innovator"**  
+<!-- styles.css -->
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background: #f5f5f5;
+    text-align: center;
+}
 
-Welcome to my personal website! With over a decade of experience in **education, AI, and Machine Learning**, I am dedicated to creating holistic, empathetic learning models that integrate **technical knowledge with human values**.  
+header {
+    background: #333;
+    color: white;
+    padding: 20px;
+}
 
-📍 **Location:** Chandigarh, India  
-📧 **Email:** [aggarwal.er@gmail.com](mailto:aggarwal.er@gmail.com)  
-🔗 **LinkedIn:** [shivani-aggarwal](https://www.linkedin.com/in/shivani-aggarwal-5865b639)  
+nav ul {
+    list-style: none;
+    padding: 0;
+}
 
----
+nav ul li {
+    display: inline;
+    margin: 0 10px;
+}
 
-## 👩‍🏫 About Me  
-I specialize in **AI, Machine Learning, Universal Human Values, and EdTech Innovation**. My goal is to empower students by providing a **balanced education** that focuses on both technical expertise and character development.  
+nav ul li a {
+    color: white;
+    text-decoration: none;
+}
 
-💡 **Expertise:**  
-- Social Impact through Technology  
-- Holistic Education Approaches  
-- AI & Machine Learning Integration in Education  
+section {
+    padding: 20px;
+}
 
----
+footer {
+    background: #333;
+    color: white;
+    padding: 10px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
 
-## 💼 Experience  
 
-### **Indian Institute of Technology, Ropar**  
-**Research Fellowship (Dec 2024 - Present)**  
-- Conducting research on **educational technologies** for improved learning experiences.  
-- Exploring **personalized learning systems** and innovative teaching methodologies.  
 
-### **Chandigarh University**  
-**Assistant Professor (Aug 2021 - Nov 2024)**  
-- Designed and taught **AI, ML, and Human Values courses** for 200+ students per semester.  
-- Managed **ERP systems** for 2500+ students, improving efficiency.  
-- Founded a team to **educate underprivileged children**, enhancing their academic performance.  
-- Established the **"Safe Space" club** for mental well-being and resilience.  
 
-### **Previous Academic Roles**  
-- **IEC College of Engineering & Technology** (Assistant Professor)  
-- **AIMT** (Assistant Professor)  
-- **UCER** (Senior Lecturer)  
-- **JMIT** (Lecturer)  
-
----
-
-## 🔬 Research & Projects  
-
-- **Personalized Learning System** – AI-driven learning customization for students.  
-- **Mental Health App** – Digital well-being solution to support students.  
-- **AI Career Guidance Tool** – Smart career recommendations for students.  
-- **Each One Teach One Initiative** – Providing education to underprivileged children.  
-
----
-
-## 🎓 Education & Certifications  
-
-🎓 **Bachelor of Technology (B.Tech.)** – Information Technology, Kurukshetra University  
-🎓 **Master of Technology (M.Tech.)** – Information Technology, Kurukshetra University  
-🎓 **Research on AI in Education** – Indian Institute of Technology, Delhi  
-
-🏆 **Certifications:**  
-- **Critical Thinking & Communication** (Statement of Participation)  
-- **Various certifications from IVERSITY, UDACITY, and HP Learning Center**  
-- **Social Innovation MOOC** (Statement of Participation)  
-- **Public Speaking MOOC** (Statement of Participation)  
-- **Machine Learning with Scikit-Learn**  
-
----
-
-## 📩 Contact  
-📍 **Location:** Chandigarh, India  
-📧 **Email:** [aggarwal.er@gmail.com](mailto:aggarwal.er@gmail.com)  
-🔗 **LinkedIn:** [shivani-aggarwal](https://www.linkedin.com/in/shivani-aggarwal-5865b639)  
-
-Feel free to connect with me for **collaborations, research, and educational initiatives!** 🚀  
